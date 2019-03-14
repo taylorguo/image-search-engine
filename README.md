@@ -18,3 +18,6 @@ base_search.py 将图像库的描述子存入.cpickle文件中
 
 对人脸进行分类，获取目标人脸后，进行变脸(deepfake / GAN)
 
+=======================================
+
+# [Perceptual Image Hash](http://phash.org/docs/pubs/thesis_zauner.pdf)
