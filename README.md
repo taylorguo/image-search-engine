@@ -21,3 +21,5 @@ base_search.py 将图像库的描述子存入.cpickle文件中
 =======================================
 
 # [Perceptual Image Hash](http://phash.org/docs/pubs/thesis_zauner.pdf)
+
+## [图像感知哈希场景分类](http://www.doc88.com/p-7169189803597.html)
